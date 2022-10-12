@@ -1,8 +1,6 @@
 #include <iostream>
 #include <clasp/clasp.h>
 
-using namespace hello;
-
 PACKAGE_USE("COMMON-LISP");
 NAMESPACE_PACKAGE_ASSOCIATION(hello_, SAPkg, "HELLO%");
 
