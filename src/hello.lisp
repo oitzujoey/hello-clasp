@@ -1,3 +1,3 @@
 (in-package :hello)
 
-(defun hello-world () (hello))
+(defun hello () (|hello|))
